@@ -14,7 +14,7 @@ YoungDevInterns-Software-Testing-QATasks
 │
 ├── Task-01-Basic-QA
 ├── Task-02-Intermediate-QA
-├── Task-03-Advanced-Automation
+├── Task-03-Advanced-Automation-QA
 └── README.md
 ```
 
